@@ -1,0 +1,4 @@
+﻿  RC4.cpp
+c:\users\zheng\desktop\cs3318\rc4\rc4\rc4.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\zheng\desktop\cs3318\rc4\rc4\rc4.cpp(116): warning C4018: '<': signed/unsigned mismatch
+  RC4.vcxproj -> C:\Users\zheng\Desktop\CS3318\RC4\Debug\RC4.exe
